@@ -2,6 +2,8 @@
 
 Original Hiptext: https://github.com/jart/hiptext
 
+[![asciicast](https://asciinema.org/a/x3KVZ6GxVYo5sKa8erd9BSCfv.svg)](https://asciinema.org/a/x3KVZ6GxVYo5sKa8erd9BSCfv)
+
 Source pulled in docker image: https://github.com/incognito/hiptext
 
 Hosted on Dockerhub at: https://hub.docker.com/_/statagroup/hiptext
